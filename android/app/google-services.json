@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730983192532",
+    "project_id": "banshi-e34a1",
+    "storage_bucket": "banshi-e34a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730983192532:android:9f807b38e8a14f1371e841",
+        "android_client_info": {
+          "package_name": "com.example.panshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730983192532-tbodprvk3f6oaqllner1ken9acjm8hom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panshi",
+            "certificate_hash": "4d975199ec25961a2a792d621ed8707b3043c174"
+          }
+        },
+        {
+          "client_id": "730983192532-11kpa4tffrvm1r0n6cm76qpk3hv5n9oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2oRo1ya8bKuDzffCXmd4O6fud3WSKZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730983192532-11kpa4tffrvm1r0n6cm76qpk3hv5n9oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
